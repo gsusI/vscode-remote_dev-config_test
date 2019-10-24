@@ -4,6 +4,8 @@ We'll be setting a docker-based remote development environment, which will prett
 
 This how-to hasn't been widely tested, for any questions please refer to the main [documentation](https://code.visualstudio.com/docs/remote/containers).
 
+Found it useful? **Give it a** :star:
+
 **Feel free to update this repo with your findings by sending a pull-request.**
 
 ### This process has been tested in the following environment:
