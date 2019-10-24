@@ -1,7 +1,9 @@
-version: '3'
+version: '2'
 services:
   jhipster-test:
     container_name: jhipster
     build: ./jhipster/
     volumes:
       - /opt/remote-dev-environments/jhipster-test:/home/jhipster/app
+    mem_limit: 2g
+    mem_reservation: 2g
